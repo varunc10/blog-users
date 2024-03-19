@@ -10,4 +10,6 @@ public class UsersApplication {
 		SpringApplication.run(UsersApplication.class, args);
 	}
 
+	int hi = 4;
+
 }
